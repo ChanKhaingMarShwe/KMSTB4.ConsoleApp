@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KMSADODotNetExample.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
