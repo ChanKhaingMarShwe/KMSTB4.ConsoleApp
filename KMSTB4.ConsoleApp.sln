@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.ConsoleApp", "Book.Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSADODotNetExample.ConsoleApp", "KMSADODotNetExample.ConsoleApp\KMSADODotNetExample.ConsoleApp.csproj", "{A850C193-C122-413D-8238-E7E9BF614CB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSDapperExample.ConsoleApp", "KMSDapperExample.ConsoleApp\KMSDapperExample.ConsoleApp.csproj", "{6A469617-94ED-4F60-B5FC-A1625D66E810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A850C193-C122-413D-8238-E7E9BF614CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A850C193-C122-413D-8238-E7E9BF614CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A850C193-C122-413D-8238-E7E9BF614CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A469617-94ED-4F60-B5FC-A1625D66E810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A469617-94ED-4F60-B5FC-A1625D66E810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A469617-94ED-4F60-B5FC-A1625D66E810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A469617-94ED-4F60-B5FC-A1625D66E810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
