@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KMSTB4EFExample.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
