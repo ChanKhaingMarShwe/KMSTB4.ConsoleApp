@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSTB4EFExample.ConsoleApp"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSTB4EFExample.ConsoleApp.Database", "KMSTB4EFExample.ConsoleApp.Database\KMSTB4EFExample.ConsoleApp.Database.csproj", "{56903BEF-2488-4B1C-A88A-D1E4E6756FFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSTB4HomeWork.ConsoleApp", "KMSTB4HomeWork.ConsoleApp\KMSTB4HomeWork.ConsoleApp.csproj", "{4CED0ADF-AFD4-4BE8-A61E-E61BAB11E1E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSTB4HomeWork.ConsoleApp.Database", "KMSTB4HomeWork.ConsoleApp.Database\KMSTB4HomeWork.ConsoleApp.Database.csproj", "{5E6FF093-4355-45F7-9984-667A1BEF7E14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{56903BEF-2488-4B1C-A88A-D1E4E6756FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56903BEF-2488-4B1C-A88A-D1E4E6756FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56903BEF-2488-4B1C-A88A-D1E4E6756FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CED0ADF-AFD4-4BE8-A61E-E61BAB11E1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CED0ADF-AFD4-4BE8-A61E-E61BAB11E1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CED0ADF-AFD4-4BE8-A61E-E61BAB11E1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CED0ADF-AFD4-4BE8-A61E-E61BAB11E1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6FF093-4355-45F7-9984-667A1BEF7E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6FF093-4355-45F7-9984-667A1BEF7E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6FF093-4355-45F7-9984-667A1BEF7E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6FF093-4355-45F7-9984-667A1BEF7E14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
